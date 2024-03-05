@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="8.25" />
+  <Class Name="IS314_Assignment1.IS314_Proj2_Kernja.clsAuditor" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsAuditor.vb</FileName>
+      <HashCode>ACQAAAAAAAAAEACAIQAABAAAAAAAAQACAAICAAAAAAE=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.IS314_Proj2_Kernja.clsCategory" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsCatagory.vb</FileName>
+      <HashCode>ABAAIAAEEBgQgAAAEABARAQQIAAAAACAEABgAAUAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.IS314_Proj2_Kernja.clsCategoryFactory" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsCatagoryFactory.vb</FileName>
+      <HashCode>IAAAAAAAAQwQgAAECABABAAAAACAEADAAIACAAEAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.IS314_Proj2_Kernja.clsDAO" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsDAO.vb</FileName>
+      <HashCode>gAAAAIBAAAAAAACAAAAABAEAAIACAAAAAEAHAAAIAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.IS314_Proj2_Kernja.clsObject" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsObject.vb</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.IS314_Proj2_Kernja.clsUser" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>clsUser.vb</FileName>
+      <HashCode>AAAQIEAAAIAAgAAAAQAQAAAAAAAAABAAAAAIAAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.frmAddUser" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmAddUser.vb</FileName>
+      <HashCode>CAlAAAAAFCAACQGAAICAAGACAAAAAAAAAFAEAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.frmAudit" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmAudit.vb</FileName>
+      <HashCode>CQAAAgAAESABAQBAACyEABESQAAQYABQAEACAFoAAgg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.frmLogon" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmLogon.vb</FileName>
+      <HashCode>AgBgAgAAECAEAYAACASAUAQGAAgAUAAAAFABABAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.frmTableView" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>frmTableView.vb</FileName>
+      <HashCode>AAEAAAAAICAAAQAAAASEAIAGAAAAIEAABEAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.My.MyApplication" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IS314_Assignment1.My.MySettings" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="IS314_Assignment1.My.MySettingsProperty" Collapsed="true">
+    <Position X="12" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="IS314_Assignment1.My.Resources.Resources" Collapsed="true">
+    <Position X="13.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+</ClassDiagram>
